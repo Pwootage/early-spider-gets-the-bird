@@ -2,7 +2,7 @@ local construction_bot_speed_setting = {
     type = "double-setting",
     name = "esgtb-construction-bot-speed-boost",
     setting_type = "startup",
-    default_value = 0.6
+    default_value = 0.06
 }
 
 local construction_bot_power_reduction = {
