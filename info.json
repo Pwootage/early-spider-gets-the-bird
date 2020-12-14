@@ -1,0 +1,11 @@
+{
+    "name": "early-spider-gets-the-bird",
+    "version": "1.0.0",
+    "title": "Early spider gets the bird",
+    "author": "Pwootage",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1"
+    ],
+    "description": "Adds an earlygame spidertron (blue science; construction only). Also configurably buffs personal roboports and buffs construction bots, because some mods delay bot speed, and time is sometimes more valuable than the experience of slow personal construciton bots."
+}
